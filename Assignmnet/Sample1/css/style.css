@@ -1,0 +1,50 @@
+
+header{
+    font-size: 18px;
+    padding: 20px;
+    text-align: center;
+}
+
+#List1{
+    margin-left: 20px;
+    float: left;
+}
+
+#List2{
+    margin-left: 410px;
+}
+
+#name{
+    font-size: 50px;
+}
+
+#email{
+    color: darkgreen;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+section,footer{
+    font-size: 18px;
+    margin-left: 80px;
+    margin-right: 150px;
+}
+
+.Job{
+    color: darkgreen;
+}
+
+article ul{
+    list-style-position: inside;
+}
+
+.text{
+    color: gray;
+}
+
+section dl dd{
+    border-left-style: dotted;
+    border-left-width: 4px;
+    border-left-color: grey;
+    padding: 20px;
+    line-height: 18px;
+}
